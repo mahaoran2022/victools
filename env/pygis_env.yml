@@ -36,4 +36,3 @@ dependencies:
   - wheel=0.29.0=py27_0
   - wincertstore=0.2=py27_0
   - zlib=1.2.11=vc9_0
-prefix: D:\Anaconda3\envs\pygis
